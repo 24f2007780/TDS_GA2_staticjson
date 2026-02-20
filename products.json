@@ -1,0 +1,170 @@
+[
+  {
+    "id": "prod-ed616f4b-001",
+    "name": "Basic Item 1",
+    "category": "clothing",
+    "price": 183.66,
+    "stock": 136,
+    "rating": 1.8
+  },
+  {
+    "id": "prod-ed616f4b-002",
+    "name": "Pro Item 2",
+    "category": "electronics",
+    "price": 423.13,
+    "stock": 193,
+    "rating": 3.2
+  },
+  {
+    "id": "prod-ed616f4b-003",
+    "name": "Pro Item 3",
+    "category": "home",
+    "price": 162.69,
+    "stock": 166,
+    "rating": 1.3
+  },
+  {
+    "id": "prod-ed616f4b-004",
+    "name": "Elite Item 4",
+    "category": "electronics",
+    "price": 141.43,
+    "stock": 153,
+    "rating": 1.3
+  },
+  {
+    "id": "prod-ed616f4b-005",
+    "name": "Basic Item 5",
+    "category": "electronics",
+    "price": 477.81,
+    "stock": 127,
+    "rating": 4
+  },
+  {
+    "id": "prod-ed616f4b-006",
+    "name": "Elite Item 6",
+    "category": "books",
+    "price": 274.71,
+    "stock": 38,
+    "rating": 3
+  },
+  {
+    "id": "prod-ed616f4b-007",
+    "name": "Premium Item 7",
+    "category": "home",
+    "price": 314.16,
+    "stock": 158,
+    "rating": 3.7
+  },
+  {
+    "id": "prod-ed616f4b-008",
+    "name": "Pro Item 8",
+    "category": "home",
+    "price": 135.99,
+    "stock": 27,
+    "rating": 4.6
+  },
+  {
+    "id": "prod-ed616f4b-009",
+    "name": "Standard Item 9",
+    "category": "home",
+    "price": 487.01,
+    "stock": 19,
+    "rating": 1.8
+  },
+  {
+    "id": "prod-ed616f4b-010",
+    "name": "Pro Item 10",
+    "category": "clothing",
+    "price": 296.3,
+    "stock": 142,
+    "rating": 4.8
+  },
+  {
+    "id": "prod-ed616f4b-011",
+    "name": "Pro Item 11",
+    "category": "clothing",
+    "price": 153.88,
+    "stock": 141,
+    "rating": 4.1
+  },
+  {
+    "id": "prod-ed616f4b-012",
+    "name": "Basic Item 12",
+    "category": "books",
+    "price": 253.61,
+    "stock": 126,
+    "rating": 1.8
+  },
+  {
+    "id": "prod-ed616f4b-013",
+    "name": "Elite Item 13",
+    "category": "home",
+    "price": 350.91,
+    "stock": 90,
+    "rating": 1.6
+  },
+  {
+    "id": "prod-ed616f4b-014",
+    "name": "Premium Item 14",
+    "category": "home",
+    "price": 338.39,
+    "stock": 153,
+    "rating": 1
+  },
+  {
+    "id": "prod-ed616f4b-015",
+    "name": "Standard Item 15",
+    "category": "clothing",
+    "price": 51.77,
+    "stock": 195,
+    "rating": 2.4
+  },
+  {
+    "id": "prod-ed616f4b-016",
+    "name": "Premium Item 16",
+    "category": "clothing",
+    "price": 194.14,
+    "stock": 60,
+    "rating": 3.8
+  },
+  {
+    "id": "prod-ed616f4b-017",
+    "name": "Pro Item 17",
+    "category": "electronics",
+    "price": 248.48,
+    "stock": 75,
+    "rating": 3.1
+  },
+  {
+    "id": "prod-ed616f4b-018",
+    "name": "Pro Item 18",
+    "category": "electronics",
+    "price": 51.59,
+    "stock": 187,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-ed616f4b-019",
+    "name": "Basic Item 19",
+    "category": "sports",
+    "price": 454.43,
+    "stock": 139,
+    "rating": 1.9
+  },
+  {
+    "id": "prod-ed616f4b-020",
+    "name": "Elite Item 20",
+    "category": "sports",
+    "price": 295.08,
+    "stock": 194,
+    "rating": 3.3
+  },
+  {
+    "id": "prod-ed616f4b-021",
+    "name": "Pro Item 21",
+    "category": "sports",
+    "price": 434.75,
+    "stock": 116,
+    "rating": 1.4
+  }
+]
