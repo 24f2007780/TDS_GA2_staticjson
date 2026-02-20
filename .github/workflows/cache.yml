@@ -10,30 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+      - uses: actions/checkout@v4
 
       - name: Cache dependencies
-        id: cache-deps
+        id: cache-b3d4b7e
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: cache-b3d4b7e
-          restore-keys: |
-            cache-
 
       - name: prime-cache-b3d4b7e
-        run: echo "Cache hit? ${{ steps.cache-deps.outputs.cache-hit }}"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
-      - name: Run basic check
-        run: echo "CI completed successfully."
+        run: echo "cache-hit=${{ steps.cache-b3d4b7e.outputs.cache-hit }}"
