@@ -29,5 +29,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
         
-      - name: 24f2007780@ds.study.iitm.ac.in
+      - name: "24f2007780@ds.study.iitm.ac.in"
         run: echo "Hello, world!"

@@ -2,7 +2,8 @@ name: CI with Cache
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -20,4 +21,5 @@ jobs:
           key: cache-b3d4b7e
 
       - name: prime-cache-b3d4b7e
-        run: echo "cache-hit=${{ steps.cache-b3d4b7e.outputs.cache-hit }}"
+        id: prime-cache-b3d4b7e
+        run: echo cache-hit=${{ steps.cache-b3d4b7e.outputs.cache-hit }}
